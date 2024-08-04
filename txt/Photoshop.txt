@@ -1,0 +1,6 @@
+resolution 300 - 400 
+ctrl + alt + c to change the size of the psd in photoshop
+f7 shortcut to see the layer menu
+selct layer and press ctrl g to added layer as group
+press u enable shape tool
+shift + u interchange shape tool
